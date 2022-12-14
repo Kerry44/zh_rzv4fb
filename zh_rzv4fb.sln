@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32802.462
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "zh_rzv4fb", "zh_rzv4fb\zh_rzv4fb.csproj", "{E0D762A1-B716-42AB-8766-19C4A524299D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh_api", "zh_api\zh_api.csproj", "{BD53CC5D-9207-48D8-930B-E2DFCD7C4D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0D762A1-B716-42AB-8766-19C4A524299D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D762A1-B716-42AB-8766-19C4A524299D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D762A1-B716-42AB-8766-19C4A524299D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D762A1-B716-42AB-8766-19C4A524299D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD53CC5D-9207-48D8-930B-E2DFCD7C4D19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD53CC5D-9207-48D8-930B-E2DFCD7C4D19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD53CC5D-9207-48D8-930B-E2DFCD7C4D19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD53CC5D-9207-48D8-930B-E2DFCD7C4D19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B17DC24-0127-4328-B649-1C56535744D0}
+	EndGlobalSection
+EndGlobal
